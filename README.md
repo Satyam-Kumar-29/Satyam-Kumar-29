@@ -107,7 +107,7 @@ A SQL practice repository containing solutions to SQL problems from the LeetCode
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me 
 
 <div align="center">
 
