@@ -19,7 +19,7 @@ I turn raw data into meaningful insights and business-ready analytics. I enjoy b
 - 💼 Currently working as a **Data Analyst at Eaton Technologies**.
 - 📍 Based in Pune, India.
 - 📊 Interested in Data Analytics, Business Intelligence and Data Engineering.
-- 🔍 Passionate about transforming raw data into actionable insights.
+- 🔍 Passionate about playing and experimenting with Data.
 - 🚀 Building end-to-end data engineering and analytics projects.
 - 📚 Continuously learning new technologies and improving my technical skills.
 
